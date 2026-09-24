@@ -11,3 +11,10 @@
 - Création d'entite Customer avec les annotations lombok et jpa, Repository avec l'annotation @RepositoryRestResource
 - Ajout de quelques clients et Test
 
+
+---
+
+## Partie 2 —  Créer le micro-service inventory-service qui permet de gérer les client
+
+- Création d'entite Product avec les annotations lombok et jpa, Repository avec l'annotation @RepositoryRestResource
+- Ajout de quelques produits et Test
