@@ -25,3 +25,10 @@
 ## Partie 3 —  Configurer la gateway
 
 - Ajouter la gateway et properties.yaml
+
+
+---
+
+## Partie 4 —  Configurer la config
+
+- Ajouter la config et configurer d'une manière statique
