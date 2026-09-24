@@ -32,3 +32,4 @@
 ## Partie 4 —  Configurer la config
 
 - Ajouter la config et configurer d'une manière statique
+- Configurer la route dynamique
