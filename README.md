@@ -18,3 +18,10 @@
 
 - Création d'entite Product avec les annotations lombok et jpa, Repository avec l'annotation @RepositoryRestResource
 - Ajout de quelques produits et Test
+
+
+---
+
+## Partie 3 —  Configurer la gateway
+
+- Ajouter la gateway et properties.yaml
