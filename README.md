@@ -42,3 +42,4 @@
 - Creer le service de facturation et les models product et customer et leurs repository
 - Creer en utilisant fiegn CustomerServiceRestClient et ProductServiceRestClient
 - Ajouter CillRestController dans package Web
+- Ajouter resiliance4j pour les tolerances en pannes dans billing service en utilisant le circuit breaker
