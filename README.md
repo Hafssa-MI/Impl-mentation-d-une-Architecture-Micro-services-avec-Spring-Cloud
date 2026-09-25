@@ -40,4 +40,4 @@
 ## Partie 5 —  Créer le service de facturation Billing-Service en utilisant Open Feig
 
 - Creer le service de facturation et les models product et customer et leurs repository
-- Creer en utilisant fiegn CustomerServiceRestClient
+- Creer en utilisant fiegn CustomerServiceRestClient et ProductServiceRestClient
