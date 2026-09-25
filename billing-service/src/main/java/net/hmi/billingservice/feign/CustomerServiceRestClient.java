@@ -16,5 +16,6 @@ public interface CustomerServiceRestClient {
         customer.setId(id);
         customer.setName("default");
         customer.setEmail("default@gmail.com");
+        return customer;
     }
 }
