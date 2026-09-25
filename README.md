@@ -41,3 +41,4 @@
 
 - Creer le service de facturation et les models product et customer et leurs repository
 - Creer en utilisant fiegn CustomerServiceRestClient et ProductServiceRestClient
+- Ajouter CillRestController dans package Web
