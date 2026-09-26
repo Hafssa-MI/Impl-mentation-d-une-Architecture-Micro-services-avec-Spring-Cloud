@@ -55,3 +55,5 @@
 - Activer le config dans le Customer service et creer un controlleur pour le test; ConfigTestRestController avec l'annotation @RestController
 - Essayer une autre approche avec CustomerConfigParams comme record class
 - refresh des changement dans le fichier properties du config service repo en changeant puis faisant commit puis la requete refresh via http client post method et ajouter l'annotation éRefreshScope dans ConfigTestRestController dans le customer service
+- Laisser juste les configurations specifique à customer dans son ficier properties et passer le reste vers config-service-repo/customer-service.properties
+- Appliquer le meme pour billing service et inventory service
