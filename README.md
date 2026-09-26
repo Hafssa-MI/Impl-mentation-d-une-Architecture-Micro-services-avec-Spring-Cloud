@@ -52,3 +52,6 @@
 - Creer le service de configuration config-service et activer la configuration avec l'annotation @EnableConfigServer
 - Creer le repo git via le dossier config-repo et initialiser le git et commit des fichier des properties { application.properties , customer-serivce/-dev/-prod.properties
 - Tester la configuration et la connexion avec DiscoveryService
+- Activer le config dans le Customer service et creer un controlleur pour le test; ConfigTestRestController avec l'annotation @RestController
+- Essayer une autre approche avec CustomerConfigParams comme record class
+- refresh des changement dans le fichier properties du config service repo en changeant puis faisant commit puis la requete refresh via http client post method et ajouter l'annotation éRefreshScope dans ConfigTestRestController dans le customer service
