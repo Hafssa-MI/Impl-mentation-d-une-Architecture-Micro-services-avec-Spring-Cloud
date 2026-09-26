@@ -57,3 +57,4 @@
 - refresh des changement dans le fichier properties du config service repo en changeant puis faisant commit puis la requete refresh via http client post method et ajouter l'annotation éRefreshScope dans ConfigTestRestController dans le customer service
 - Laisser juste les configurations specifique à customer dans son ficier properties et passer le reste vers config-service-repo/customer-service.properties
 - Appliquer le meme pour billing service et inventory service
+- Passer à un repo git remote pour le config service
