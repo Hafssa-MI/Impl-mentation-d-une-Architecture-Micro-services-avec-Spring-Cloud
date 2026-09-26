@@ -43,3 +43,12 @@
 - Creer en utilisant fiegn CustomerServiceRestClient et ProductServiceRestClient
 - Ajouter CillRestController dans package Web
 - Ajouter resiliance4j pour les tolerances en pannes dans billing service en utilisant le circuit breaker
+
+
+---
+
+## Partie 6 —  Créer le service service de Configuration
+
+- Creer le service de configuration config-service et activer la configuration avec l'annotation @EnableConfigServer
+- Creer le repo git via le dossier config-repo et initialiser le git et commit des fichier des properties { application.properties , customer-serivce/-dev/-prod.properties
+- Tester la configuration et la connexion avec DiscoveryService
